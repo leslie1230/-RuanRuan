@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @leslie1230
-- 👀 I’m interested in embedded system,network secrityand so on.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-leslie1230/leslie1230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. 👋 Hi, I’m @RuanRuan.Welcome browse my repositories.
+2. 👀 I’m interested in embedded system,network secrityand so on.
+3. 🌱 I’m currently learning electrical engnieering.
+4. 📫 If you think the things in my repositories are useful,please give me a star.If you have doubts about things in my repositorise,please contact me in the         way.
+      1. 📧 Email: rpx142356@qq.com
+5. …… Continuously updating.
+  
